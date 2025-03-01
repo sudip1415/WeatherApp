@@ -6,14 +6,14 @@ import { Route, Routes } from 'react-router';
 function App() {
   return (
     <>
-      <div className=' flex items-center gap-2 justify-center h-screen bg-slate-800'>
-        <Home />
-        <Routes>
+      <div className=' flex items-center gap-2 bg-[url("/src/assets/background.jpg")] bg-no-repeat bg-cover bg-center justify-center h-screen'>
+        {/* <Home /> */}
+        <Weather />
+        {/* <Routes>
           <Route path="Weather.jsx" element={<Weather />} />
-        </Routes>
-        {/* <Weather /> */}
+          <Route path="Home.jsx" element={<Home />} />
+        </Routes> */}
       </div>
-
     </>
   )
 }
