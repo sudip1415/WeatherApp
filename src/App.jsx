@@ -7,12 +7,9 @@ function App() {
   return (
     <>
       <div className=' flex items-center gap-2 bg-[url("/src/assets/background.jpg")] bg-no-repeat bg-cover bg-center justify-center h-screen'>
-        {/* <Home /> */}
+      
         <Weather />
-        {/* <Routes>
-          <Route path="Weather.jsx" element={<Weather />} />
-          <Route path="Home.jsx" element={<Home />} />
-        </Routes> */}
+      
       </div>
     </>
   )
