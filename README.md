@@ -59,8 +59,13 @@ A simple weather application built using React and OpenWeatherMap API to fetch r
 ![Screenshot 2025-03-02 073352](https://github.com/user-attachments/assets/134922a6-b799-4fbf-8d94-861e57c4d986)
 ![Screenshot 2025-03-02 073416](https://github.com/user-attachments/assets/cb074bca-91a3-4927-bf83-51d7ce8f8220)
 
-# Author 
-Sudip Nagane("https://github.com/sudip1415")
+# License
+
+This project is open-source. Feel free to modify and use it as needed.
+
+# Author
+
+Sudip Nagane
 
 
 
