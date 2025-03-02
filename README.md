@@ -65,7 +65,8 @@ This project is open-source. Feel free to modify and use it as needed.
 
 # Author
 
-Sudip Nagane
+Sudip Nagane (url("https://github.com/sudip1415"))
+
 
 
 
