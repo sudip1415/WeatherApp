@@ -56,7 +56,7 @@ A simple weather application built using React and OpenWeatherMap API to fetch r
 
 # Screenshots 🗃️
 
-![Screenshot 2025-03-02 073352](https://github.com/user-attachments/assets/eee6ee6d-baf2-48bc-b219-cdb5d214e35b)
+![Screenshot 2025-03-02 073352](https://github.com/user-attachments/assets/6204a704-ad3a-456d-a2c6-925f77e47900)
 
 ![Screenshot 2025-03-02 073416](https://github.com/user-attachments/assets/cb074bca-91a3-4927-bf83-51d7ce8f8220)
 
